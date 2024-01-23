@@ -1,6 +1,6 @@
 {
   "name": "react-select-zinkat",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A customizable and reusable React select component",
   "author": "ZINEB KATIM",
   "license": "MIT",
@@ -24,8 +24,8 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
-    "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.23.7",
@@ -68,7 +68,7 @@
     "select"
   ],
   "dependencies": {
-    "react": "^18.2.0",
-    "prop-types": "^15.8.1"
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0"
   }
 }
