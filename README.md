@@ -73,12 +73,12 @@ This component is accompanied by an automated test suite to ensure its proper fu
 
 You can obtain the necessary configuration files directly from the GitHub repository:
 
-- [jest.config.js](https://github.com/zinkat/react-select-zinkat2/blob/master/jest.config.js)
-- [.babelrc](https://github.com/zinkat/react-select-zinkat2/blob/master/.babelrc)
-- [cssTransform.js](https://github.com/zinkat/react-select-zinkat2/blob/master/cssTransform.js)
-- [setupTests.js](https://github.com/zinkat/react-select-zinkat2/blob/master/setupTests.js)
+- [jest.config.js](https://github.com/zinkat/react-select-zinkat/blob/master/jest.config.js)
+- [.babelrc](https://github.com/zinkat/react-select-zinkat/blob/master/.babelrc)
+- [cssTransform.js](https://github.com/zinkat/react-select-zinkat/blob/master/cssTransform.js)
+- [setupTests.js](https://github.com/zinkat/react-select-zinkat/blob/master/setupTests.js)
 
 
 ## License
 
-MIT © [https://github.com/zinkat/react-select-zinkat.git](https://github.com/https://github.com/zinkat/react-select-zinkat.git)
+MIT © [Zineb](https://github.com/https://github.com/zinkat/react-select-zinkat.git)
